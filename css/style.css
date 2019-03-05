@@ -21,7 +21,9 @@ ol, ul {
 blockquote, q {
   quotes: none;
 }
-
+#contact-inperson{
+ color: black;
+}
 blockquote:before, blockquote:after, q:before, q:after {
   content: '';
   content: none;
